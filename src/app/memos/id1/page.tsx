@@ -1,3 +1,7 @@
+export const metadata = {
+	title: "メモ詳細ページ",
+};
+
 export default function Home() {
 	return (
 		<div>
