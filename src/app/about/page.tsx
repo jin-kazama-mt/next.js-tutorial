@@ -1,5 +1,5 @@
 export const metadata = {
-	title: "記事タイトル",
+	title: "説明ページ",
 	description: "このページは記事の内容を紹介しています。",
 	openGraph: {
 		title: "OGPタイトル",

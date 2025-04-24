@@ -1,4 +1,9 @@
 import Link from "next/link";
+
+export const metadata = {
+	title: "メモ一覧",
+};
+
 export default function Home() {
 	return (
 		<div>
